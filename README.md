@@ -1,10 +1,6 @@
 # LAB.AI-Task-Week-3
 Analisis dan Prediksi Harga Smartphone Menggunakan Linear Regression (Tugas Week 3)
 
-# LAB.AI-Task-Week-3
-
-Linear Regression untuk Prediksi Harga Smartphone 📱
-
 ## Deskripsi
 Project ini menganalisis dataset smartphone dan membangun model regresi linear untuk memprediksi harga berdasarkan spesifikasi.
 
